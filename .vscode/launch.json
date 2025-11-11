@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "exercici10",
+            "request": "launch",
+            "mainClass": "exercici10",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercici9",
+            "request": "launch",
+            "mainClass": "exercici9",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercici8",
+            "request": "launch",
+            "mainClass": "exercici8",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercici7",
+            "request": "launch",
+            "mainClass": "exercici7",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercici6",
+            "request": "launch",
+            "mainClass": "exercici6",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercicihores",
+            "request": "launch",
+            "mainClass": "exercicihores",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercici5",
+            "request": "launch",
+            "mainClass": "exercici5",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercici1",
+            "request": "launch",
+            "mainClass": "exercici1",
+            "projectName": "EXERCICIST3_658bff06"
+        },
+        {
+            "type": "java",
+            "name": "exercici5",
+            "request": "launch",
+            "mainClass": "exercici5",
+            "projectName": "EXERCICI1Ç_665f5722"
+        },
+        {
+            "type": "java",
+            "name": "ejemploWhileBasico",
+            "request": "launch",
+            "mainClass": "ejemploWhileBasico",
+            "projectName": "EXERCICI1Ç_665f5722"
+        },
+        {
+            "type": "java",
+            "name": "exercici4",
+            "request": "launch",
+            "mainClass": "exercici4",
+            "projectName": "EXERCICI1Ç_665f5722"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "exercici1",
+            "request": "launch",
+            "mainClass": "exercici1",
+            "projectName": "EXERCICI1Ç_665f5722"
+        },
+        {
+            "type": "java",
+            "name": "exercici1b",
+            "request": "launch",
+            "mainClass": "exercici1b",
+            "projectName": "EXERCICI1Ç_665f5722"
+        },
+        {
+            "type": "java",
+            "name": "exercici2",
+            "request": "launch",
+            "mainClass": "exercici2",
+            "projectName": "EXERCICI1Ç_665f5722"
+        },
+        {
+            "type": "java",
+            "name": "exercici3",
+            "request": "launch",
+            "mainClass": "exercici3",
+            "projectName": "EXERCICI1Ç_665f5722"
+        }
+    ]
+}
