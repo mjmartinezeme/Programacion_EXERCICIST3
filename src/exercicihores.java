@@ -30,9 +30,9 @@ public class exercicihores {
             }
         }
         System.out.println("Tu sueldo bruto es: " + sueldoBruto);
-        {
+        System.out.println("Tu sueldo neto es: " + (sueldoBruto-imposts));
 
-        }
+        
     sc.close();
     }
 }
